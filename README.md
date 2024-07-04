@@ -5,7 +5,7 @@
 ![image](https://github.com/LNshuti/equities-tracker/assets/13305262/ea270ec3-f0be-4b62-b31f-43eb4885d770)
 
 
-This application fetches and visualises historical stock data and technical indicators for selected companies. Using Yahoo Finance data, it allows users to analyze stocks through various technical indicators such as Simple Moving Averages (SMA), Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), and Trailing Annual Returns.
+This application fetches and visualises historical stock data and technical indicators for selected companies. Using Yahoo Finance data, it allows users to analyze stocks through various technical indicators such as Simple Moving Averages (SMA), Relative Strength Index (RSI), and Trailing Annual Returns.
 
 ## Features
 
