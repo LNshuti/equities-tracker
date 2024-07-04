@@ -1,5 +1,9 @@
 # Stock Analysis and Visualization Application
 
+## [Prototype](https://huggingface.co/spaces/LeonceNsh/active-equities)
+
+![image](https://github.com/LNshuti/tn-macro-dashboard/assets/13305262/6605d226-d2a6-44dd-afb2-b4c8e22de894)
+
 This application fetches and visualises historical stock data and technical indicators for selected companies. Using Yahoo Finance data, it allows users to analyze stocks through various technical indicators such as Simple Moving Averages (SMA), Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), and Trailing Annual Returns.
 
 ## Features
@@ -22,12 +26,3 @@ This application fetches and visualises historical stock data and technical indi
 1. **Select Companies**: Choose companies such as Apple, Microsoft, and Amazon.
 2. **Select Indicators**: Choose technical indicators like SMA, RSI, or MACD.
 3. **Generate Plots**: View the generated plots in the interactive gallery, displaying the selected indicators for the chosen companies.
-
-## Code Overview
-
-- **Global Configuration**: Define global settings and ticker mappings.
-- **Data Fetching**: Functions to fetch historical stock data both synchronously and asynchronously.
-- **Technical Indicator Calculation**: Functions to compute various technical indicators.
-- **Plotting**: Functions to create and convert plots to images.
-- **Gradio Interface**: Functions to launch and manage the Gradio interface for user interaction.
-
