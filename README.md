@@ -27,3 +27,6 @@ This application fetches and visualises historical stock data and technical indi
 1. **Select Companies**: Choose companies such as Apple, Microsoft, and Amazon.
 2. **Select Indicators**: Choose technical indicators like SMA, RSI, or MACD.
 3. **Generate Plots**: View the generated plots in the interactive gallery, displaying the selected indicators for the chosen companies.
+
+Thank you for your interest in our technical trading analysis tool. We value your feedback and would love to hear your thoughts on how we can make this application more useful for you. Please take a moment to answer the following 3 question survey.
+### [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScNnM8CAuOINnoYiVPzwaf0dM8TzAD1CjEJgcbO-mfAKTSQtg/viewform?usp=sharing)
