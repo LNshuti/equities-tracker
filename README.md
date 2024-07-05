@@ -1,4 +1,4 @@
-# Technical Analysis and Visualization of Stocks 
+# Technical Analysis and Visualization of Stocks Time Series
 
 ## [Prototype](https://huggingface.co/spaces/LeonceNsh/active-equities)
 
