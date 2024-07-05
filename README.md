@@ -1,5 +1,3 @@
-<img src="https://github.com/LNshuti/equities-tracker/assets/13305262/34269ca9-8762-46a6-8e7a-c6d76314eabc" alt="image" width="100" height="100"/>
-
 # Stock Analysis and Visualization Application
 
 ## [Prototype](https://huggingface.co/spaces/LeonceNsh/active-equities)
