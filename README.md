@@ -29,11 +29,13 @@ This application pulls and visualises historical stock data and technical indica
 
 ## Example Workflow
 
-1. **Select Companies**: Choose companies such as Apple, Microsoft, and Amazon.
-2. **Select Indicators**: Choose technical indicators like SMA, RSI, or MACD.
-3. **Generate Plots**: View the generated plots in the interactive gallery, displaying the selected indicators for the chosen companies.
+1. **Select one or multiple** companies such as Apple, Microsoft, and Amazon.
+2. **Select technical indicators** like Simple Moving Average **(SMA 55, SMA 200)**, Relative Strength Index **(RSI)**, and Moving Average Convergence Divergence **(MACD)**.
+3. **Generate Plots**: in the interactive gallery, displaying the selected indicators for the chosen companies.
 
 ---
 
-Thank you for your interest in our technical trading analysis tool. We value your feedback and would love to hear your thoughts on how we can make this application more useful for you. Please take a moment to answer the following 3 question survey.
+Thank you for your interest in our technical trading analysis tool. How can we make this tool more useful for you? 
+
+Please take a moment to answer the following 3 question survey.
 ### [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScNnM8CAuOINnoYiVPzwaf0dM8TzAD1CjEJgcbO-mfAKTSQtg/viewform?usp=sharing)
