@@ -1,4 +1,4 @@
-# Stock Analysis and Visualization Application
+# Technical Analysis and Visualization of Stocks 
 
 ## [Prototype](https://huggingface.co/spaces/LeonceNsh/active-equities)
 
