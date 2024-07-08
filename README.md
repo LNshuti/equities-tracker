@@ -2,9 +2,8 @@
 
 ## [Prototype](https://huggingface.co/spaces/LeonceNsh/active-equities)
 
-## Demo
+## [Demo](https://www.loom.com/embed/ad16f7a6b63348bc99632e2c13910617?sid=4b2fd89d-2407-469c-abdf-b95cf3f3315f)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ad16f7a6b63348bc99632e2c13910617?sid=4b2fd89d-2407-469c-abdf-b95cf3f3315f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ![image](https://github.com/LNshuti/equities-tracker/assets/13305262/ea270ec3-f0be-4b62-b31f-43eb4885d770)
 
