@@ -64,8 +64,8 @@ def calculate_returns(data, years):
     print("Data Head:\n", data.head())
     
     try:
-        start_loc = data.index.get_loc(start_date, method='nearest')
-        start_price = data['Close'][start_loc]
+        nearest_start_date = data.index.asof(start_date)
+        start_price = data.loc[nearest_start_date, 'Close']
     except KeyError as ke:
         st.error(f"KeyError in calculate_returns: {ke}")
         raise
