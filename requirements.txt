@@ -1,0 +1,6 @@
+yfinance==0.2.30
+matplotlib==3.6.2
+numpy==1.23.5
+Pillow==9.3.0
+streamlit==1.14.0
+cachetools==5.2.0
