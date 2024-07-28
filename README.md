@@ -2,8 +2,9 @@
 
 ## [Prototype](https://huggingface.co/spaces/LeonceNsh/active-equities)
 
-## [Demo](https://www.loom.com/embed/ad16f7a6b63348bc99632e2c13910617?sid=4b2fd89d-2407-469c-abdf-b95cf3f3315f)
+## [Demo](https://bit.ly/4ffflaZ)
 
+![image](https://github.com/user-attachments/assets/bb2a53be-a844-40e6-96dd-03d230a965b8)
 
 ![image](https://github.com/LNshuti/equities-tracker/assets/13305262/ea270ec3-f0be-4b62-b31f-43eb4885d770)
 
