@@ -4,7 +4,6 @@
 
 ![image](https://github.com/LNshuti/equities-tracker/assets/13305262/ea270ec3-f0be-4b62-b31f-43eb4885d770)
 
-
 This application pulls and visualises historical stock data and technical indicators for selected companies. With this app, users can analyze stocks through various technical indicators such as Simple Moving Averages (SMA), Relative Strength Index (RSI), and Trailing Annual Returns.
 
 ## Dependencies 
@@ -32,6 +31,9 @@ This application pulls and visualises historical stock data and technical indica
 1. **Select one or multiple** companies such as Apple, Microsoft, and Amazon.
 2. **Select technical indicators** like Simple Moving Average **(SMA 55, SMA 200)**, Relative Strength Index **(RSI)**, and Moving Average Convergence Divergence **(MACD)**.
 3. **Generate Plots**: in the interactive gallery, displaying the selected indicators for the chosen companies.
+
+## Gold Prices
+![image](https://github.com/user-attachments/assets/962e8c04-24c3-4b64-b2b3-d6b092113ed5)
 
 ---
 
