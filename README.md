@@ -1,5 +1,4 @@
-# Technical Analysis and Visualization of Stocks Time Series
-
+# Technical Analysis and Visualization of Stocks Time Series! 💡
 ## [Prototype](https://huggingface.co/spaces/LeonceNsh/active-equities)
 
 ![image](https://github.com/LNshuti/equities-tracker/assets/13305262/ea270ec3-f0be-4b62-b31f-43eb4885d770)
@@ -37,7 +36,10 @@ This application pulls and visualises historical stock data and technical indica
 
 ---
 
-Thank you for your interest in our technical trading analysis tool. How can we make this tool more useful for you? 
+## Help Us Improve Our Technical Analysis Tool! 💡
+Thank you for exploring our **Technical Analysis and Visualization of Stocks Time Series** app. We’re on a mission to make this tool even better for you! 🎯
 
-Please take a moment to answer the following 3 question survey.
-### [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScNnM8CAuOINnoYiVPzwaf0dM8TzAD1CjEJgcbO-mfAKTSQtg/viewform?usp=sharing)
+### Your feedback matters!
+We would love to know **how we can make this app more useful for you.** Your insights help shape future features and improvements. Take just **60 seconds** to fill out our quick 3-question survey! 🙌
+
+###[📝 Share Your Feedback](https://docs.google.com/forms/d/e/1FAIpQLScNnM8CAuOINnoYiVPzwaf0dM8TzAD1CjEJgcbO-mfAKTSQtg/viewform?usp=sharing)
