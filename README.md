@@ -20,16 +20,16 @@ This application pulls and visualises historical stock data and technical indica
 
 ### Gradio Interface
 
-- **Select Companies**: Choose one or multiple companies from the provided list.
-- **Select Indicators**: Choose one or multiple technical indicators to plot.
-- **Select All Indicators**: Option to select or deselect all available technical indicators.
-- **View Plots**: Interactive gallery to view and analyze the generated plots.
+- **Select Companies**: Choose one or multiple companies.
+- **Select Indicators**: Choose one or multiple technical indicators.
+- **Select All Indicators**: Select or deselect all available technical indicators.
+- **View Plots**: View and analyze the generated plots.
 
 ## Example Workflow
 
 1. **Select one or multiple** companies such as Apple, Microsoft, and Amazon.
 2. **Select technical indicators** like Simple Moving Average **(SMA 55, SMA 200)**, Relative Strength Index **(RSI)**, and Moving Average Convergence Divergence **(MACD)**.
-3. **Generate Plots**: in the interactive gallery, displaying the selected indicators for the chosen companies.
+3. **Generate Plots**: display selected indicators for the chosen companies.
 
 ## [Gold Prices](https://huggingface.co/spaces/LeonceNsh/etf-tracker)
 ![image](https://github.com/user-attachments/assets/962e8c04-24c3-4b64-b2b3-d6b092113ed5)
