@@ -42,4 +42,4 @@ Thank you for exploring our **Technical Analysis and Visualization of Stocks Tim
 ### Your feedback matters!
 We would love to know **how we can make this app more useful for you.** Your insights help shape future features and improvements. Take just **60 seconds** to fill out our quick 3-question survey! 🙌
 
-###[📝 Share Your Feedback](https://docs.google.com/forms/d/e/1FAIpQLScNnM8CAuOINnoYiVPzwaf0dM8TzAD1CjEJgcbO-mfAKTSQtg/viewform?usp=sharing)
+### [📝 Share Your Feedback](https://docs.google.com/forms/d/e/1FAIpQLScNnM8CAuOINnoYiVPzwaf0dM8TzAD1CjEJgcbO-mfAKTSQtg/viewform?usp=sharing)
