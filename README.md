@@ -1,5 +1,5 @@
-# Technical Analysis and Visualization of Stocks Time Series! 💡
-## [Prototype](https://huggingface.co/spaces/LeonceNsh/active-equities)
+# Technical Analysis and Visualization of Stocks Time Series! 
+# [Prototype](https://huggingface.co/spaces/LeonceNsh/active-equities) 💡
 
 ![image](https://github.com/LNshuti/equities-tracker/assets/13305262/ea270ec3-f0be-4b62-b31f-43eb4885d770)
 
